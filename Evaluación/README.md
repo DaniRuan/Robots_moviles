@@ -1,1 +1,1 @@
-
+Se anexa el archivo.mlx en livescript para una mejor visualización y su correspondiente reporte en PDF, ya que no se visualizan tan bien todos los valores de la velocidad lineal (v) y velocidad angular (w) en el PDF, además se incluyen los archivos para la simulación en 3D.
